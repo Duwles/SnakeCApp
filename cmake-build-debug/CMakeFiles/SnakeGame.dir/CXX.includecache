@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/KontenerGIT/Duwles/SnakeCApp/SnakeGame/src/main.cpp
+windows.h
+-
+stdlib.h
+-
+iostream
+-
+
